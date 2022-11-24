@@ -39,7 +39,7 @@
       "unique": true
     },
     "icon_source": {
-      "type": "richtext"
+      "type": "string"
     }
   }
 }
