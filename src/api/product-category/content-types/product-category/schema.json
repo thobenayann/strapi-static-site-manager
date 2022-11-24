@@ -37,6 +37,9 @@
     "slug": {
       "type": "string",
       "unique": true
+    },
+    "icon_source": {
+      "type": "richtext"
     }
   }
 }
